@@ -1,5 +1,6 @@
 # hello-world
 Hello World repository for Git tutorial
+made by sandeep
 This is an example repository for the Git tutoial on https://www.w3schools.com
 This tutorial mainly focusses on Git and using Github as its remote
 
